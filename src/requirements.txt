@@ -1,0 +1,8 @@
+numpy
+casadi
+pygame
+Pillow
+pynput
+matplotlib
+rtree
+scipy

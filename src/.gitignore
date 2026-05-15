@@ -1,0 +1,47 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build/packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Logs and coverage
+*.log
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+.cache/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local settings
+*.env
+.env.*
+
+# Agent-specific scratch files
+agentdata/
+
+# Agent instructions (local-only)
+AGENTS.md
