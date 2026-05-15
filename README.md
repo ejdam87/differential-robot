@@ -7,6 +7,11 @@ This repo contains localization and navigation (path planning + control) for a 2
 
 ![Physical robot](./media/physical_robot.jpg)
 
+The robot consists mainly of:
+- main computing unit (esp-based controller with built-in memory)
+- four light sensors
+- 2 DC motors with encoders (and wheels on them)
+
 Besides functionality for a real robot, there is also a simulator provided for a virtual robot (see below).
 
 ![Simulator](./media/simulator.jpg)
