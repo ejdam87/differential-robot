@@ -11,6 +11,8 @@ The robot consists mainly of:
 - main computing unit (esp-based controller with built-in memory)
 - four light sensors
 - 2 DC motors with encoders (and wheels on them)
+- chargeable batteries
+
 
 Besides functionality for a real robot, there is also a simulator provided for a virtual robot (see below).
 
